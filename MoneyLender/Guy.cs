@@ -50,7 +50,7 @@ namespace MoneyLender
         /// a message to the console if the amount is invalid).
         /// </summary>
         /// <param name="amount">Amount of cash to receive.</param>
-        public void ReceiveCash(int amount)
+        public void ReceiveCash(int amount) 
         {
             if(amount <= 0)
             {
