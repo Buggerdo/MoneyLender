@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // testing branch
+            // testing branch text 2
             Guy Joe = new Guy() { Cash = 50, Name = "Joe" };
             Guy Bob = new Guy() { Cash = 100, Name = "Bob" };
 
